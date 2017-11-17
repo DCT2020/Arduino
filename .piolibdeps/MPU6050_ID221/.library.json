@@ -1,0 +1,44 @@
+{
+    "name": "MPU6050", 
+    "repository": {
+        "url": "https://developer.mbed.org/users/garfieldsg/code/MPU6050/", 
+        "type": "hg"
+    }, 
+    "platforms": [
+        "freescalekinetis", 
+        "teensy", 
+        "nxplpc", 
+        "nordicnrf51", 
+        "ststm32"
+    ], 
+    "frameworks": [
+        "mbed"
+    ], 
+    "version": "1e0baaf91e", 
+    "examples": [
+        "https://developer.mbed.org/users/garfieldsg/code/mpu6050_test/", 
+        "https://developer.mbed.org/users/pommzorz/code/testI2C/", 
+        "https://developer.mbed.org/users/syundo0730/code/Hobby_Humanoid_controlor/", 
+        "https://developer.mbed.org/users/kto1989/code/mpu6050_test/", 
+        "https://developer.mbed.org/users/oakx/code/j_mpu6050/", 
+        "https://developer.mbed.org/teams/Wallbot-BLE-Developer/code/mpu6050_test/"
+    ], 
+    "authors": [
+        {
+            "url": "https://developer.mbed.org/users/garfieldsg/", 
+            "maintainer": false, 
+            "email": null, 
+            "name": "Simon Garfieldsg"
+        }
+    ], 
+    "keywords": [
+        "accelerometer", 
+        "mpu60x0", 
+        "mpu6050", 
+        "i2c", 
+        "mpu-6050", 
+        "gyroscope"
+    ], 
+    "id": 221, 
+    "description": "Ported from Arduino Library : https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050"
+}
